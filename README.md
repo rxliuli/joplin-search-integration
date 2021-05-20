@@ -1,3 +1,5 @@
+> Migrate to [joplin-utils](https://github.com/rxliuli/joplin-utils/)
+
 # Joplin Search Integration
 
 > [GitHub](https://github.com/rxliuli/joplin-search-integration),
